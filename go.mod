@@ -1,4 +1,4 @@
-module github.com/pgeiem/test_goddbus
+module github.com/pgeiem/test_godbus
 
 go 1.13
 
